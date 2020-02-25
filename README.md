@@ -3,6 +3,10 @@ A program that prints numbers from 1 to 100. For multiples of 3 it prints `Three
 5 prints `Five`. For multiples of both 3 and 5, it prints `ThreeFive`.
 
 ## Installation
+### Requirements
+* Python >=3.5
+
+### Install
 Download or clone the repo to work with the source files.
 
 To install to your project run
