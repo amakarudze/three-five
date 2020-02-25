@@ -15,5 +15,13 @@ To install to your project run
 ## Tests
 To run tests, run ```python3 -m unittest test_three_five```.
 
+## FAQs
+**This is a silly library to devote your time into building. Why build it in the first place?**
+
+This library is not meant to do anything really. I was once asked to write this program as part of a technical interview
+ which I didn't do so well in. I just had to attempt it now to see if I could do it and added other extras such as 
+ packaging etc. for fun as well as showing recruiters how much Python I know. This package was mainly done for 
+ practice's sake.
+
 ## Contributing
 To contribute, please read the following guidelines.
