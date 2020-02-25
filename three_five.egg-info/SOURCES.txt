@@ -1,0 +1,12 @@
+LICENCE.md
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+three_five.py
+three_five.egg-info/PKG-INFO
+three_five.egg-info/SOURCES.txt
+three_five.egg-info/dependency_links.txt
+three_five.egg-info/requires.txt
+three_five.egg-info/top_level.txt
