@@ -4,12 +4,18 @@
  Author: Anna Makarudze
  Contact: amakarudze@gmail.com"""
 
-for i in range(1, 101):
-    if i % 3 == 0 and i % 5 == 0:
-        print("ThreeFive")
-    if i % 3 == 0:
-        print("Three")
-    elif i % 5 == 0:
-        print("Five")
-    else:
-        print(i)
+
+def three_five():
+    for i in range(1, 101):
+        if i % 3 == 0 and i % 5 == 0:
+            print("ThreeFive")
+        if i % 3 == 0:
+            print("Three")
+        elif i % 5 == 0:
+            print("Five")
+        else:
+            print(i)
+
+
+if __name__ == "main":
+    three_five()
