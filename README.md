@@ -24,4 +24,4 @@ This library is not meant to do anything really. I was once asked to write this 
  practice's sake.
 
 ## Contributing
-To contribute, please read the following guidelines.
+To contribute, please read the [contributing](Contributing.md) guidelines stipulated [here](Contributing.md).
