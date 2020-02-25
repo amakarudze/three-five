@@ -52,9 +52,11 @@ def three_five():
             print(i)
 
 
+# Run function
 three_five()
 
 
 if __name__ == "main":
+    # Run tests
     import doctest
     doctest.testmod()
